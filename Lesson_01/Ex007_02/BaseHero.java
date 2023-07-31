@@ -46,4 +46,15 @@ public class BaseHero {
         int damage = BaseHero.r.nextInt(10, 20);
         target.GetDamage(damage);
     }
+
+    public void GetRecovery(int recovery) {
+        if (this.hp + recovery > 0) {
+            this.hp += recovery;
+        }
+        // else { die(); }
+    }
+    public void Recovery(BaseHero object){
+        int recovery = BaseHero.r.nextInt(10,20);
+        object.GetRecovery(recovery);
+    }
 }

@@ -4,14 +4,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfcd778c-e920-43f5-9d4a-69fb5d68a7a0" name="Changes" comment="" />
+    <list default="true" id="cfcd778c-e920-43f5-9d4a-69fb5d68a7a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_01/Ex003_01/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_01/Ex003_01/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_01/Ex007_02/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_01/Ex007_02/Healer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_01/Ex007_02/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_01/Ex007_02/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_01/Ex007_02/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_01/Ex003/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_01/Ex003/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_01/Ex003/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_01/Ex003/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_lesson01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex001/PointMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex002/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex002/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex003/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex003/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex004/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex004/Robot1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex004/Robot2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex004/Robot3$State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex004/Robot3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex005/Magician.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex005/Priest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex005/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex006/BaseHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex006/Magician.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex006/Priest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex006/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex006/Teams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex007/BaseHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex007/Magician.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex007/Priest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Ex007/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/Lesson_07.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/out/production/Lesson_07/Lesson_07/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/out/production/Lesson_07/Lesson_07/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/out/production/Lesson_07/Lesson_07/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_07/out/production/Lesson_07/Lesson_07/Lesson_07.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2SsT0EzUomLHTyWSUvfWlgrL5to" />
   <component name="ProjectViewState">
@@ -22,14 +79,59 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Java/OOP_lesson01",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Java/OOP_Java/Lesson_01",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lesson_07.Ex004.Program">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\OOP_Java\Lesson_01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Lesson_01.Ex001.PointMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_01.Ex001.PointMethod" />
+      <module name="OOP_lesson01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_01.Ex001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson_01.Ex003_01.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_01.Ex003_01.Program" />
+      <module name="OOP_lesson01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_01.Ex003_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson_01.Ex003.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_01.Ex003.Program" />
+      <module name="OOP_lesson01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_01.Ex003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lesson_07.Ex004.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_07.Ex004.Program" />
       <module name="OOP_lesson01" />
@@ -43,25 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_07.Ex001.PointMethod" />
-      <module name="OOP_lesson01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_07.Ex001.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_07.Ex002.Program" />
+      <option name="MAIN_CLASS_NAME" value="Lesson_01.Ex007_02.Program" />
       <module name="OOP_lesson01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_07.Ex002.*" />
+          <option name="PATTERN" value="Lesson_01.Ex007_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,9 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson_07.Ex004.Program" />
-        <item itemvalue="Application.PointMethod" />
         <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Lesson_01.Ex003_01.Program" />
+        <item itemvalue="Application.Lesson_01.Ex003.Program" />
+        <item itemvalue="Application.Lesson_01.Ex001.PointMethod" />
+        <item itemvalue="Application.Lesson_07.Ex004.Program" />
       </list>
     </recent_temporary>
   </component>
