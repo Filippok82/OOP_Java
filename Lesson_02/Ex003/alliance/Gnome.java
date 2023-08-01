@@ -1,6 +1,6 @@
-package Lesson_08.Ex003.alliance;
+package Lesson_02.Ex003.alliance;
 
-import Lesson_08.Ex003.*;
+import Lesson_02.Ex003.*;
 
 public class Gnome extends Priest{
     

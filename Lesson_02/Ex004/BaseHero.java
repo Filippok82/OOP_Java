@@ -1,4 +1,4 @@
-package Lesson_08.Ex004;
+package Lesson_02.Ex004;
 
 public abstract class BaseHero {
 
