@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfcd778c-e920-43f5-9d4a-69fb5d68a7a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex001/BaseHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex001/BaseHero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex001/Druid.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex001/Druid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex001/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex001/Magician.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex001/Priest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex001/Priest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex001/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex001/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex002/BaseHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex002/BaseHero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex002/Druid.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex002/Druid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex002/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex002/Magician.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex002/Priest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex002/Priest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex002/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex002/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex003/BaseHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex003/BaseHero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex003/Druid.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex003/Druid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex003/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex003/Magician.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex003/Priest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex003/Priest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex003/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex003/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex003/alliance/Dwarf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex003/alliance/Dwarf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex003/alliance/Gnome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex003/alliance/Gnome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex003/alliance/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex003/alliance/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex003/alliance/Worgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex003/alliance/Worgen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex004/BaseHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex004/BaseHero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex004/Druid.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex004/Druid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex004/Dwarf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex004/Dwarf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_02/Ex004/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_02/Ex004/Program.java" afterDir="false" />
-    </list>
+    <list default="true" id="cfcd778c-e920-43f5-9d4a-69fb5d68a7a0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,5 +134,10 @@
       <updated>1689934066188</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OOP_Java$Lesson_02_Ex004_Program.ic" NAME="Lesson_02.Ex004.Program Coverage Results" MODIFIED="1690911735286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lesson_02.Ex004.*</FILTER>
+    </SUITE>
   </component>
 </project>
