@@ -5,70 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfcd778c-e920-43f5-9d4a-69fb5d68a7a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex001Calc/CalcModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex001Calc/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex001Calc/Presenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex001Calc/PresenterOfT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex001Calc/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex001Calc/SumModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex001Calc/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex001Calc/mvp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex002Phonebook/Client/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex002Phonebook/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex002Phonebook/Core/Infrastructure/Phonebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex002Phonebook/Core/MVP/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex002Phonebook/Core/MVP/Presenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex002Phonebook/Core/MVP/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex002Phonebook/Core/Models/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex002Phonebook/UI/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex002Phonebook/UI/ConsoleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex002Phonebook/UI/NewConsoleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Client/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Client/ConsoleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Client/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Core/Infrastructure/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Core/Models/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Core/Presenters/Presenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Core/Views/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Mathematics/CalculateArea/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Mathematics/CalculateArea/CalculateArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Mathematics/Exceptions/MathematicsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Mathematics/Exceptions/UnacceptableValueException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Mathematics/Shapes/Canvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Mathematics/Shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Mathematics/Shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Mathematics/Shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Mathematics/Shapes/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_05/Ex003Math/Mathematics/Shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/Ex001_1SRP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/Ex001_2SRP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/Ex002_1OCP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/Ex002_2OCP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/Ex003_1LSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/Ex003_2LSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/Ex004_1ISP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/Ex004_2ISP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/Ex005_1DIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/Ex005_2DIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_06/Lesson_12.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_lesson01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v1/Healers/Druid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v1/Healers/Healer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v1/Healers/Priest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v1/Healers/Shaman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v1/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v1/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v1/Warriors/Knight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v1/Warriors/Paladin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v1/Warriors/Warrior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v2/God.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v2/Healers/Druid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v2/Healers/Healer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v2/Healers/Priest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v2/Healers/Shaman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v2/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v2/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v2/Warriors/Knight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v2/Warriors/Paladin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex005/v2/Warriors/Warrior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex006/Applications/Notepad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex006/Document/TextDocument.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex006/Format/Doc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex006/Format/Md.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex006/Format/TextFormat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex006/Format/Txt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex006/Interface/Saveable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_lesson01/Lesson_08/Ex006/Program.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,19 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Java/OOP_Java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/IrinaFil/IdeaProjects/lesson01",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Tree.subject" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Java\OOP_Java\Lesson_01" />
     </key>

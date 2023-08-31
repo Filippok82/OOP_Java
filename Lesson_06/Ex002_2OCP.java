@@ -1,3 +1,5 @@
+package Lesson_06;
+
 public class Ex002_2OCP {
     public static void main(String[] args) {
 

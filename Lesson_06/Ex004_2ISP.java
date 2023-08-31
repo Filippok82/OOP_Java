@@ -1,4 +1,4 @@
-// Interface segregation principle
+package Lesson_06;// Interface segregation principle
 // Принцип разделения интерфейса 
 // Модули высокого уровня не должны зависеть от модулей нижнего уровня.
 //   И те, и другие должны зависеть от абстракций.

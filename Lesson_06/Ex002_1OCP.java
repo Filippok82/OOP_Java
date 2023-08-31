@@ -1,3 +1,4 @@
+package Lesson_06;
 
 // Open-closed principle
 // Принцип открытости/закрытости
